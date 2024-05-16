@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "191669790394",
+    "project_id": "hakkyo-e249e",
+    "storage_bucket": "hakkyo-e249e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191669790394:android:4b1dc0aae435e42a0f0483",
+        "android_client_info": {
+          "package_name": "com.example.hakkyo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGi6bac80gW2jH3d9jEubP16sxX5MfnjU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
